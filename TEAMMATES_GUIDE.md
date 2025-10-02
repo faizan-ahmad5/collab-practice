@@ -2,24 +2,6 @@
 
 > **Complete step-by-step instructions for team members to contribute to the GitHub collaboration project**#### � Pull Request Process
 
-> 🎥 **Need Help?** If you're confused about creating Pull Requests, watch this video tutorial: [Creating a Simple Github Pull Request](https://youtu.be/rgbCcBNZcdQ?t=201) (Start from 3:21)
-
-### 1. **Push Your Changes to a Branch**
-
-After committing your changes locally, push them to a new or existing branch on GitHub. Once pushed, GitHub will show a notification banner like this:
-
-📸 **Image 1: Branch Push Notification**  
-![Branch Push Notification](assets/images/image-01.png)  
-This banner appears at the top of the repository page, indicating that your branch (e.g., `update-name`) has recent changes.  
-It includes a green **"Compare & pull request"** button.uest Process
-
----
-
-📸 **Image 1: Branch Push Notification**  
-![Branch Push Notification](assets/images/image-01.png)  
-This banner appears at the top of the repository page, indicating that your branch (e.g., `update-name`) has recent changes.  
-It includes a green **"Compare & pull request"** button. 📋 Table of Contents
-
 1. [Team Overview](#-team-overview)
 2. [Getting Started](#-getting-started)
 3. [Branch Assignment](#-branch-assignment)
@@ -466,7 +448,7 @@ git log --oneline -5
 3. **Check browser console** for any errors
 4. **Test responsive design** by resizing browser window
 
----
+```
 
 ## 💡 Tips & Best Practices
 
