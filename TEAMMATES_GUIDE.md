@@ -1,6 +1,8 @@
 # 👥 Teammates Collaboration Guide
 
-> **Complete step-by-step instructions for team members to contribute to the GitHub collaboration project**#### � Pull Request Process
+> **Complete step-by-step instructions for team members to contribute to the GitHub collaboration project**
+
+### Pull Request Process
 
 1. [Team Overview](#-team-overview)
 2. [Getting Started](#-getting-started)
