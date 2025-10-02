@@ -115,7 +115,6 @@ Enable the following protections:
 - ✅ **Require a pull request before merging**
   - ✅ Require approvals: **1** (minimum)
   - ✅ Dismiss stale PR approvals when new commits are pushed
-  - ✅ Require review from code owners (if applicable)
 
 ### Step 3: Save Protection Rules
 
